@@ -1,3 +1,10 @@
+# 1.0.0 (2026-10-06)
+
+
+### Features
+
+* **aem:** add figma-to-content skill for EDS page migration from Figma ([#310](https://github.com/lfernandezp-hiberuscom/adobe-skills/issues/310)) ([bc9900d](https://github.com/lfernandezp-hiberuscom/adobe-skills/commit/bc9900dbbeba60b7d7ef1139007a5baccc7c748d))
+
 # 1.0.0 (2026-08-26)
 
 
